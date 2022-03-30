@@ -10,3 +10,4 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+- 用于给未来的女朋友开发日常打卡等》。。。小程序用
